@@ -1,0 +1,11 @@
+/* Add your styles here */
+
+/* Styles for the project information square box */
+.project-info {
+    border: 2px solid #20b2aa; /* Border color */
+    border-radius: 8px; /* Rounded corners */
+    padding: 15px; /* Padding inside the box */
+    background-color: #020202; /* Background color */
+    margin: 20px 0; /* Margin around the box */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
